@@ -49,7 +49,7 @@ Currently looking for **SDE / ML / AI roles** where I can build real products.
 
 Built a custom architecture that combines **EfficientNetV2** (spatial feature extraction) and **TinyViT** (transformer-based attention) into a single hybrid model. Outperforms standalone CNNs and ViTs on benchmark data.
 
-- Dataset: OpenForensics (30k+ images)
+- Dataset: OpenForensics from Kaggle
 - Framework: TensorFlow / Keras
 - Research paper submitted to **Nelex 2026**
 - Key challenge solved: detecting subtle GAN-generated artifacts that fool standard CNNs
