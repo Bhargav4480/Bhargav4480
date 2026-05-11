@@ -13,10 +13,6 @@ Currently looking for **SDE / ML / AI roles** where I can build real products.
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bhargav4480&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🧠 What I Work With
 
 **Languages**
@@ -44,15 +40,8 @@ Currently looking for **SDE / ML / AI roles** where I can build real products.
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,flask,streamlit,firebase,arduino,c,git,github,vscode,latex&perline=7)](https://skillicons.dev)
-
 ---
-## 📊 GitHub Stats
 
-![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhargav4480&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav4480&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhargav4480&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ## 🚀 Featured Projects
 
 ### 🛡️ Deep Fake Shield
@@ -115,6 +104,11 @@ Built on **NodeMCU (ESP8266)** with DS18B20 temperature sensors. System automati
 - 📌 Building my portfolio site at [bhargav4480.github.io](https://bhargav4480.github.io)
 - 📌 Exploring LLM fine-tuning and RAG pipelines
 - 📌 Actively applying for AI/ML and SDE roles — **open to opportunities**
+
+---
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bhargav4480&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
