@@ -13,6 +13,10 @@ Currently looking for **SDE / ML / AI roles** where I can build real products.
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bhargav4480&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🧠 What I Work With
 
 **Languages**
