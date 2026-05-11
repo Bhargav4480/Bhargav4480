@@ -1,4 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhargav4480&color=2f81f7&style=flat&label=Profile+Views)
+
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=600&lines=Hey+I'm+Bhargav+%F0%9F%91%8B;ECE+Final+Year+%7C+AI%2FML+Engineer;Building+things+that+actually+work.;95.52%25+deepfake+detection+%E2%9C%85;Open+to+SDE+%2F+ML+roles)](https://git.io/typing-svg)
 # Hey, I'm Bhargav 👋
 
@@ -107,7 +110,9 @@ Built on **NodeMCU (ESP8266)** with DS18B20 temperature sensors. System automati
 - 📌 Actively applying for AI/ML and SDE roles — **open to opportunities**
 
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhargav4480&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
 ## 📬 Let's Connect
 
 If you're working on something interesting in AI, embedded systems, or IoT — or if you're a recruiter with a role that fits — reach out.
