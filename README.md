@@ -1,16 +1,106 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&width=600&lines=Hey+I'm+Bhargav+%F0%9F%91%8B;ECE+Final+Year+%7C+AI%2FML+Engineer;Building+things+that+actually+work.;95.52%25+deepfake+detection+%E2%9C%85;Open+to+SDE+%2F+ML+roles)](https://git.io/typing-svg)
+# Hey, I'm Bhargav 👋
 
-<!--
-**Bhargav4480/Bhargav4480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ECE final-year building AI systems that actually work — not just in theory.**
 
-Here are some ideas to get you started:
+I'm a final-year B.Tech student (Electronics & Communication Engineering) at VRSEC, Vijayawada. My focus is on deep learning, embedded AI, and IoT systems. I like building things end-to-end — from the model to the hardware to the deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for **SDE / ML / AI roles** where I can build real products.
+
+---
+
+## 🧠 What I Work With
+
+**Languages**
+`Python` · `C` · `SQL` · `HTML/CSS`
+
+**AI / ML**
+`TensorFlow` · `Keras` · `scikit-learn` · `EfficientNetV2` · `TinyViT` · `Random Forest` · `OpenCV`
+
+**Web & Data**
+`Streamlit` · `Firebase` · `Flask` · `Chart.js`
+
+**Embedded & IoT**
+`ESP8266 / ESP32` · `NodeMCU` · `Arduino` · `Blynk` · `FreeRTOS`
+
+**Tools**
+`Git` · `Google Colab` · `Keil uVision` · `Vivado` · `LaTeX`
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Deep Fake Shield
+> Hybrid deepfake detection model — **95.52% accuracy** on the OpenForensics dataset
+
+Built a custom architecture that combines **EfficientNetV2** (spatial feature extraction) and **TinyViT** (transformer-based attention) into a single hybrid model. Outperforms standalone CNNs and ViTs on benchmark data.
+
+- Dataset: OpenForensics (30k+ images)
+- Framework: TensorFlow / Keras
+- Research paper submitted to **ICISCN 2025**
+- Key challenge solved: detecting subtle GAN-generated artifacts that fool standard CNNs
+
+📄 *Conference paper under review — code repo coming soon*
+
+---
+
+### 🏃 Personal Fitness Tracker
+> Real-time health monitoring dashboard with ML-based calorie prediction
+
+Connected an **ESP8266** to Firebase for live health data streaming. Built a **Streamlit** dashboard on top with a **Random Forest** model that predicts calorie burn from age, BMI, heart rate, exercise duration, and body temperature.
+
+- Stack: Python · ESP8266 · Firebase · Streamlit · scikit-learn
+- Live data pipeline from hardware → cloud → dashboard
+
+🔗 [View Repository →](https://github.com/Bhargav4480/Implementation-of-Personal-Fitness-Tracker-using-Python)
+
+---
+
+### 🌡️ Aquarium Water Temperature Management System
+> IoT-based automated climate control for aquarium environments
+
+Built on **NodeMCU (ESP8266)** with DS18B20 temperature sensors. System automatically activates fan (>30°C) or heater (<27°C) with Blynk + Firebase integration. Manual overrides are timer-based to prevent conflicts.
+
+- Research paper published at **ICECMSN 2025**
+- Stack: NodeMCU · DS18B20 · Blynk · Firebase · C++
+
+---
+
+### ❤️ Heart Rate Monitoring System
+> Real-time BPM tracking with cloud sync
+
+**ESP32** + pulse sensor (GPIO 34) with PulseSensorPlayground library. Average BPM calculated and logged to Firebase. Remote monitoring via Blynk dashboard.
+
+- Stack: ESP32 · Firebase · Blynk · C++
+
+---
+
+## 📄 Publications
+
+| Year | Title | Conference |
+|------|-------|------------|
+| 2025 | IoT-Based Aquarium Water Temperature Management System | ICECMSN 2025 |
+| 2025 | Deep Fake Detection Using EfficientNetV2 + TinyViT Hybrid | ICISCN 2025 *(under review)* |
+
+---
+
+## 🔧 Currently Working On
+
+- 📌 Pushing full project code and notebooks to GitHub (Deep Fake Shield, Heart Rate Monitor, Aquarium System)
+- 📌 Building my portfolio site at [bhargav4480.github.io](https://bhargav4480.github.io)
+- 📌 Exploring LLM fine-tuning and RAG pipelines
+- 📌 Actively applying for AI/ML and SDE roles — **open to opportunities**
+
+---
+
+## 📬 Let's Connect
+
+If you're working on something interesting in AI, embedded systems, or IoT — or if you're a recruiter with a role that fits — reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargav-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavpattemsetti/)
+[![Email](https://img.shields.io/badge/Email-228w1a04a6%40vrsiddhartha.ac.in-D14836?style=flat&logo=gmail&logoColor=white)](mailto:228w1a04a6@vrsiddhartha.ac.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhargav4480.github.io-000000?style=flat&logo=github&logoColor=white)](https://bhargav4480.github.io)
+
+---
+
+*"Build things. Break things. Push to GitHub."*
