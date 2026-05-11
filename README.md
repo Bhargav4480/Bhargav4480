@@ -27,7 +27,13 @@ Currently looking for **SDE / ML / AI roles** where I can build real products.
 `Git` · `Google Colab` · `Keil uVision` · `Vivado` · `LaTeX`
 
 ---
+## 📊 GitHub Stats
 
+![Bhargav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhargav4480&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav4480&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bhargav4480&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ## 🚀 Featured Projects
 
 ### 🛡️ Deep Fake Shield
