@@ -109,8 +109,6 @@ Built on **NodeMCU (ESP8266)** with DS18B20 temperature sensors. System automati
 - 📌 Exploring LLM fine-tuning and RAG pipelines
 - 📌 Actively applying for AI/ML and SDE roles — **open to opportunities**
 
----
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhargav4480&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ## 📬 Let's Connect
