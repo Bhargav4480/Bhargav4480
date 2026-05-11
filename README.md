@@ -40,6 +40,9 @@ Currently looking for **SDE / ML / AI roles** where I can build real products.
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
+
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,flask,streamlit,firebase,arduino,c,git,github,vscode,latex&perline=7)](https://skillicons.dev)
+
 ---
 ## 📊 GitHub Stats
 
