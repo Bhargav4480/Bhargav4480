@@ -37,7 +37,7 @@ Built a custom architecture that combines **EfficientNetV2** (spatial feature ex
 
 - Dataset: OpenForensics (30k+ images)
 - Framework: TensorFlow / Keras
-- Research paper submitted to **ICISCN 2025**
+- Research paper submitted to **Nelex 2026**
 - Key challenge solved: detecting subtle GAN-generated artifacts that fool standard CNNs
 
 📄 *Conference paper under review — code repo coming soon*
@@ -80,7 +80,7 @@ Built on **NodeMCU (ESP8266)** with DS18B20 temperature sensors. System automati
 | Year | Title | Conference |
 |------|-------|------------|
 | 2025 | IoT-Based Aquarium Water Temperature Management System | ICECMSN 2025 |
-| 2025 | Deep Fake Detection Using EfficientNetV2 + TinyViT Hybrid | ICISCN 2025 *(under review)* |
+| 2025 | Deep Fake Detection Using EfficientNetV2 + TinyViT Hybrid | Nelex 2026 *(under review)* |
 
 ---
 
@@ -98,7 +98,7 @@ Built on **NodeMCU (ESP8266)** with DS18B20 temperature sensors. System automati
 If you're working on something interesting in AI, embedded systems, or IoT — or if you're a recruiter with a role that fits — reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhargav-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavpattemsetti/)
-[![Email](https://img.shields.io/badge/Email-228w1a04a6%40vrsiddhartha.ac.in-D14836?style=flat&logo=gmail&logoColor=white)](mailto:228w1a04a6@vrsiddhartha.ac.in)
+[![Email](https://img.shields.io/badge/Email-bhargavpattemsetti@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhargavpattemsetti@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhargav4480.github.io-000000?style=flat&logo=github&logoColor=white)](https://bhargav4480.github.io)
 
 ---
