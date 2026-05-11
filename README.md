@@ -94,7 +94,7 @@ Built on **NodeMCU (ESP8266)** with DS18B20 temperature sensors. System automati
 | Year | Title | Conference |
 |------|-------|------------|
 | 2025 | IoT-Based Aquarium Water Temperature Management System | ICECMSN 2025 |
-| 2025 | Deep Fake Detection Using EfficientNetV2 + TinyViT Hybrid | Nelex 2026 *(under review)* |
+| 2026 | Deep Fake Detection Using EfficientNetV2 + TinyViT Hybrid | Nelex 2026 *(under review)* |
 
 ---
 
